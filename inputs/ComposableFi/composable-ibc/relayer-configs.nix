@@ -12,7 +12,7 @@
     chain_id = pkgs.networksLib.pica.devnet.CHAIN_ID;
     client_id = "07-tendermint-0";
     connection_id = "connection-0";
-    account_prefix = "centauri";
+    account_prefix = "pica";
     fee_denom = "ppica";
     fee_amount = "10000000000000000";
     gas_limit = 9223372036854775806;
